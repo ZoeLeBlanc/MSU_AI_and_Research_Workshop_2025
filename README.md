@@ -1,0 +1,1 @@
+# Repository for Materials at the Michigan State University Symposium on AI and the Humanities
