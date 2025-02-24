@@ -29,30 +29,30 @@ I should probably start by visiting the Digital Collections website to see what 
 To embark on your project involving Michigan State University's (MSU) Digital Collections, focusing on histories of information and digital humanities, follow this organized approach:
 
 1. **Explore MSU Libraries' Digital Collections:**
-- Visit the [Digital Collections website](https://dcl.lib.msu.edu/) to browse available resources.
-
+   - Visit the [Digital Collections website](https://dcl.lib.msu.edu/) to browse available resources.
+   
 2. **Identify Relevant Collections:**
-- **General Collection:** Utilize 19th-century books for insights into pre-digital information management.
-- **Special Collections:** Examine manuscripts and letters for historical knowledge transmission.
-- **Newspapers & Periodicals:** Access digitized versions of 19th-century newspapers to study media evolution.
-- **Archival Collections:** Investigate university records or local societies' materials on info handling practices.
-- **Science, Technology, Medicine:** Explore early scientific texts and maps for historical analysis in DH.
+   - **General Collection:** Utilize 19th-century books for insights into pre-digital information management.
+   - **Special Collections:** Examine manuscripts and letters for historical knowledge transmission.
+   - **Newspapers & Periodicals:** Access digitized versions of 19th-century newspapers to study media evolution.
+   - **Archival Collections:** Investigate university records or local societies' materials on info handling practices.
+   - **Science, Technology, Medicine:** Explore early scientific texts and maps for historical analysis in DH.
 
 3. **Leverage Specialized Resources:**
-- Check the [Digital Library for the History of Science and Technology](https://dcl.lib.msu.edu/dhst/) for specialized datasets.
-- Review the [Teaching Tools Collection](https://dcl.lib.msu.edu/teachingtools/) for educational resources.
+   - Check the [Digital Library for the History of Science and Technology](https://dcl.lib.msu.edu/dhst/) for specialized datasets.
+   - Review the [Teaching Tools Collection](https://dcl.lib.msu.edu/teachingtools/) for educational resources.
 
 4. **Utilize Digitized Resources:**
-- Look into digitized rare books, manuscripts, and consider HathiTrust access via MSU for broader resources.
+   - Look into digitized rare books, manuscripts, and consider HathiTrust access via MSU for broader resources.
 
 5. **Consider Technical Aspects:**
-- Ensure availability of high-quality images and metadata for computational analysis.
-
+   - Ensure availability of high-quality images and metadata for computational analysis.
+   
 6. **Seek Collaboration Opportunities:**
-- Contact MSU's Digital Humanities Lab for support with tools and methodologies.
+   - Contact MSU's Digital Humanities Lab for support with tools and methodologies.
 
 7. **Plan Your Approach:**
-- Focus on collections that offer historical depth, ensuring digitization facilitates easy access.
-- Engage with MSU librarians or researchers for guidance and resources.
+   - Focus on collections that offer historical depth, ensuring digitization facilitates easy access.
+   - Engage with MSU librarians or researchers for guidance and resources.
 
 By systematically exploring these avenues, you can effectively utilize MSU's digital collections to bridge the gap between historical information studies and contemporary digital humanities projects.
