@@ -214,7 +214,7 @@ Suret-Canale, Jean. 1964. French Colonialism in Tropical Africa 1900–1945. Pic
 
 ## Original Materials
 
-![Screenshot 2025-02-19 at 1.29.12 PM.png](MSU%20AI%20&%20Research%20Workshop%20Prompt%20Evaluation%20Resul%2019f42ec6cb3e806f99fcc599ba16016a/Screenshot_2025-02-19_at_1.29.12_PM.png)
+![africa_media_review_example](images/africa_media_review_example.png)
 
 ```markdown
 Africa  Media  Review  Vol. 2 No. 1.  1987
@@ -655,7 +655,7 @@ Social Studies.
 
 ## Corrected Materials
 
-![Screenshot 2025-02-19 at 1.27.09 PM.png](MSU%20AI%20&%20Research%20Workshop%20Prompt%20Evaluation%20Resul%2019f42ec6cb3e806f99fcc599ba16016a/Screenshot_2025-02-19_at_1.27.09_PM.png)
+![africa_media_review_ocr_correction.png](images/africa_media_review_ocr_correction.png)
 
 ```markdown
 ### Africa Media Review Vol. 2 No. 1, 1987
@@ -824,7 +824,7 @@ final_df.to_csv("africa_media_review_dataset.csv", index=False)
 
 ```
 
-[Africa Media Review Dataset](MSU%20AI%20&%20Research%20Workshop%20Prompt%20Evaluation%20Resul%2019f42ec6cb3e806f99fcc599ba16016a/Africa%20Media%20Review%20Dataset%201a142ec6cb3e80d8af50d16d10aaa352.csv)
+[Africa Media Review Dataset](datasets/Africa Media Review Dataset 1a142ec6cb3e80d8af50d16d10aaa352.csv)
 
 ---
 
