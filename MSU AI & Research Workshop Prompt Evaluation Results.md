@@ -4,7 +4,7 @@
 
 ### Initial Minimal Prompt
 
-![Screenshot 2025-02-19 at 10.55.56 AM.png](MSU%20AI%20&%20Research%20Workshop%20Prompt%20Evaluation%20Results/Screenshot_2025-02-19_at_10.55.56_AM.png)
+![Initial Minimal Prompt](images/initial_minimal_open_horizon_prompt.png)
 
 | Chatbot | Model | Found Relevant Materials? | Suggested Helpful Methods? | Costs | Data Privacy | Link to Log | Model Response |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,9 +17,9 @@
 
 ---
 
-### Revised Prompt
+### Initial Revised Prompt
 
-![Screenshot 2025-02-19 at 10.57.31 AM.png](MSU%20AI%20&%20Research%20Workshop%20Prompt%20Evaluation%20Resul%2019f42ec6cb3e806f99fcc599ba16016a/Screenshot_2025-02-19_at_10.57.31_AM.png)
+![Revised Prompt](images/initial_revised_open_horizon_prompt.png)
 
 | Chatbot | Model | Found Relevant Materials? | Suggested Helpful Methods? | Costs | Data Privacy | Link to Log | Model Response |
 | --- | --- | --- | --- | --- | --- | --- | --- |
